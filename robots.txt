@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaeyaobae.mayagfx.com/sitemap.xml
